@@ -1,0 +1,13 @@
+*.so
+*.[o,d,a]
+*.swo
+*.swp
+*.swn
+*.pyc
+*.so
+
+build/
+bin/
+objs/
+dist/
+MinkowskiEngine.egg-info/

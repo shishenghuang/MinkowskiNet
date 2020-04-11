@@ -1,0 +1,24 @@
+torch # Or follow the pytorch installation instruction
+MinkowskiEngine
+torchvision
+
+# Image loading and plots
+seaborn
+imageio
+matplotlib
+sklearn
+
+# Logging using tensorboardX
+tensorflow-tensorboard
+tensorboard-pytorch
+tensorboardX
+
+# Mesh related packages
+plyfile
+pandas
+
+# Misc.
+datetime
+tqdm
+retrying
+easydict
